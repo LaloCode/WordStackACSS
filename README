@@ -7,10 +7,10 @@ Check the website for detailed instructions on how to implement this activity.
 
 Version 1.0
 
-#Word Stack Activity
+# Word Stack Activity
 My solution for the Word Stack activity in the Applied CS Skills Google course, had a lot of fun with this one and learned a lot!
 
-##Rules
+## Rules
 The app for this workshop is a single-user word game called WordStack. The idea of the game is to try to separate out two words
 of the same length whose letters have been scrambled (but the order of the letters has been preserved).
 
@@ -25,5 +25,5 @@ For example, 'cat' and 'dog' might get scrambled in many ways but 'c' will alway
 
 But never 'actdog' ('a' is out of order) or 'coatdg' ('o' out of order).
 
-##TO DO
+## TO DO
 Implement one of the suggested extensions in the future
